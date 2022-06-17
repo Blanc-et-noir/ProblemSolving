@@ -1,5 +1,3 @@
-package BOJ.BFS.단지번호붙이기_2667;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

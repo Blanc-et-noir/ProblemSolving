@@ -1,5 +1,3 @@
-package BOJ.NUMBERTHEORY.소수구하기_1929;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

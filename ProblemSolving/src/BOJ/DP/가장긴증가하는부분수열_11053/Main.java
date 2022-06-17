@@ -1,5 +1,3 @@
-package BOJ.DP.가장긴증가하는부분수열_11053;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

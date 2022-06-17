@@ -1,5 +1,3 @@
-package BOJ.BRUTEFORCE.신입사원_1946;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;

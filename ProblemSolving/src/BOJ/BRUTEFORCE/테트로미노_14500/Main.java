@@ -1,5 +1,3 @@
-package BOJ.BRUTEFORCE.테트로미노_14500;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

@@ -1,5 +1,3 @@
-package BOJ.MATH.달팽이는올라가고싶다_2869;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;

@@ -1,5 +1,3 @@
-package BOJ.PRIORITYQUEUE.√÷º“»¸_1927;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

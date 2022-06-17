@@ -1,5 +1,3 @@
-package PROGRAMMERS.LEVEL1.신고결과받기;
-
 class Solution {
 	  
     //10진수 정수를 분석하여 지도의 한 행의 정보를

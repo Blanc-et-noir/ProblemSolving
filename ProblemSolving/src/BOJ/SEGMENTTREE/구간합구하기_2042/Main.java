@@ -1,5 +1,3 @@
-package BOJ.SEGMENTTREE.구간합구하기_2042;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;

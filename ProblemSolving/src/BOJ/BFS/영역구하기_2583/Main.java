@@ -1,5 +1,3 @@
-package BOJ.BFS.영역구하기_2583;
-
 import java.util.LinkedList;
 import java.util.PriorityQueue;
 import java.util.Queue;

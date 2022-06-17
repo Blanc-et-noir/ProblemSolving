@@ -1,5 +1,3 @@
-package BOJ.DP._1로만들기2_12852;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

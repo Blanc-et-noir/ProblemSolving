@@ -1,5 +1,3 @@
-package BOJ.STACK.스택수열_1874;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

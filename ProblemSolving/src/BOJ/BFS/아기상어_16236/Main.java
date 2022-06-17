@@ -1,5 +1,3 @@
-package BOJ.BFS.아기상어_16236;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

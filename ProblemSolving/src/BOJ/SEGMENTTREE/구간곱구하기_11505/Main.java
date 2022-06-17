@@ -1,5 +1,3 @@
-package BOJ.SEGMENTTREE.구간곱구하기_11505;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;

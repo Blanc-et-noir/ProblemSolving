@@ -1,5 +1,3 @@
-package BOJ.SEGMENTTREE.수열과쿼리37_18436;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;

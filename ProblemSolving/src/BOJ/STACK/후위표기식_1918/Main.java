@@ -1,5 +1,3 @@
-package BOJ.STACK.후위표기식_1918;
-
 import java.util.Scanner;
 
 class Stack<T>{

@@ -1,5 +1,3 @@
-package PROGRAMMERS.LEVEL2.오픈채팅방;
-
 import java.util.*;
 
 class Solution {

@@ -1,5 +1,3 @@
-package BOJ.BINARYSEARCH.ฟ๋พื_2467;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

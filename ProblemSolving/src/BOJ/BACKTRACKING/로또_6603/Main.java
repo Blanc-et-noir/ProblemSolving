@@ -1,5 +1,3 @@
-package BOJ.BACKTRACKING.·Î¶Ç_6603;
-
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;

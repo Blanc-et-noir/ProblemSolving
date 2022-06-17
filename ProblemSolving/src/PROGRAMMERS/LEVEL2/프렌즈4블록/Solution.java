@@ -1,5 +1,3 @@
-package PROGRAMMERS.LEVEL2.프렌즈4블록;
-
 class Solution {
 	
 	//지울 수 있는 블록이 존재하는지 찾고, 존재한다면 블록을 지우고 지운 블록 수를 리턴하는 메소드

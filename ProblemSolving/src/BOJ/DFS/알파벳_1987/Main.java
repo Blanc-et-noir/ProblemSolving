@@ -1,5 +1,3 @@
-package BOJ.DFS.¾ËÆÄºª_1987;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

@@ -1,5 +1,3 @@
-package PROGRAMMERS.LEVEL1.키패드누르기;
-
 class Solution {
     
     //절대값을 반환하는 메소드

@@ -1,5 +1,3 @@
-package BOJ.SEGMENTTREE.수들의합7_2268;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;

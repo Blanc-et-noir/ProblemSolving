@@ -1,5 +1,3 @@
-package BOJ.GEOMETRY.≈Õ∑ø_1002;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;

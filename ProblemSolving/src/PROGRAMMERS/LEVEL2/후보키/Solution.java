@@ -1,5 +1,3 @@
-package PROGRAMMERS.LEVEL2.ÈÄº¸Å°;
-
 import java.util.*;
 
 class Solution {

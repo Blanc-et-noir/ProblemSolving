@@ -1,5 +1,3 @@
-package BOJ.BRUTEFORCE.부분수열의합_1182;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

@@ -1,5 +1,3 @@
-package BOJ.BFS.πÃ∑Œ≈ª√‚_14923;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;

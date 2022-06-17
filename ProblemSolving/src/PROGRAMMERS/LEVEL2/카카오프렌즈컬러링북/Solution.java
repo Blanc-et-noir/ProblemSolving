@@ -1,5 +1,3 @@
-package PROGRAMMERS.LEVEL2.카카오프렌즈컬러링북;
-
 import java.util.*;
 
 //y, x는 각각 좌표, c는 그림의 색깔을 나타냄

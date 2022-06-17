@@ -1,5 +1,3 @@
-package BOJ.BFS.적록색약_10026;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

@@ -1,5 +1,3 @@
-package BOJ.NUMBERTHEORY.네개의소수_1153;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

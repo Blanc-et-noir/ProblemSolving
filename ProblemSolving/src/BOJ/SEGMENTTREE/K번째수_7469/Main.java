@@ -1,5 +1,3 @@
-package BOJ.SEGMENTTREE.K¹øÂ°¼ö_7469;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;

@@ -1,5 +1,3 @@
-package BOJ.BFS.벽부수고이동하기_2206;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;

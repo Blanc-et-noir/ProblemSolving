@@ -1,5 +1,3 @@
-package BOJ.NUMBERTHEORY.È¯»óÀÇÂ¦²á_15711;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

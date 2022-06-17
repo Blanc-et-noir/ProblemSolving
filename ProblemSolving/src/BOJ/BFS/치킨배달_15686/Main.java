@@ -1,5 +1,3 @@
-package BOJ.BFS.치킨배달_15686;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

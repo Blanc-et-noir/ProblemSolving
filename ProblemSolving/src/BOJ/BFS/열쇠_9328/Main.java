@@ -1,5 +1,3 @@
-package BOJ.BFS.¿­¼è_9328;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

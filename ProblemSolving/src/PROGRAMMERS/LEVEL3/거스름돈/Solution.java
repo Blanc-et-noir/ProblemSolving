@@ -1,5 +1,3 @@
-package PROGRAMMERS.LEVEL3.°Å½º¸§µ·;
-
 class Solution {
     public int solution(int n, int[] money) {
         

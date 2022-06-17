@@ -1,5 +1,3 @@
-package BOJ.DP.평범한배낭_12865;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

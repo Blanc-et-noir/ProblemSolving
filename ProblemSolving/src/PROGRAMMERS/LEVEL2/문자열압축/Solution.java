@@ -1,5 +1,3 @@
-package PROGRAMMERS.LEVEL2.문자열압축;
-
 class Solution {
     public int solution(String s) {
         int answer = 0;

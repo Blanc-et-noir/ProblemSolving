@@ -1,5 +1,3 @@
-package BOJ.PRIORITYQUEUE.N번째큰수_2075;
-
 import java.util.Scanner;
 
 class Heap{
